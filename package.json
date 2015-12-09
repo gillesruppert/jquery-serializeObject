@@ -1,0 +1,22 @@
+{
+  "name": "jquery-serializeobject",
+  "version": "1.0.0",
+  "description": "The missing form serializer for jQuery",
+  "main": "jquery.serializeObject.js",
+  "keywords": [
+    "jquery",
+    "serialize",
+    "form",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillesruppert/jquery-serializeObject.git"
+  },
+  "author": "Gilles Ruppert <gilles@madeofbytes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gillesruppert/jquery-serializeObject/issues"
+  },
+  "homepage": "https://github.com/gillesruppert/jquery-serializeObject#readme"
+}
